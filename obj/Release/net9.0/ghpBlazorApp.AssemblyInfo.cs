@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ghpBlazorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f79207af05de59b4e20d89a819a32ed788dd4d83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e254c6f3d03a4a4480c09503e5c2fbbd219da7ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ghpBlazorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ghpBlazorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

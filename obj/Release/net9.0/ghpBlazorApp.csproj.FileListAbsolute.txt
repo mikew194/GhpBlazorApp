@@ -199,8 +199,6 @@ C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\dot
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.szzsdxa7wu.wasm
-C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.i249c2bzer.pdb
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.phaa9r44xv.wasm.gz
@@ -403,8 +401,6 @@ C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\dot
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.szzsdxa7wu.wasm.gz
-C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.i249c2bzer.pdb.gz
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\ghpBlazorApp.staticwebassets.runtime.json
 C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\ghpBlazorApp.staticwebassets.endpoints.json
@@ -820,7 +816,6 @@ C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\scopedcss\projectbundl
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\blazor.boot.json
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\7y4hjkz188-8rbvw3on5j.gz
-C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\es5i27noet-l24y9hlc9w.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\bb395us6pe-bqjiyaj88i.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\nbk2n639ck-c2jlpeoesf.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\mm01tzoq8f-erw9l3u2r3.gz
@@ -1069,9 +1064,6 @@ C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\t48kop9ewx-
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\0hd6dpkzd5-tjcz0u77k5.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\yecpl0h8el-tptq2av103.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\5vbs5vo5b5-lfu7j35m59.gz
-C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\hp5wshpfrp-szzsdxa7wu.gz
-C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\1jsplq8sgk-i249c2bzer.gz
-C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\5gp2oxhu10-yp4x7ud6zx.gz
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\staticwebassets.build.json
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\staticwebassets.development.json
@@ -1081,3 +1073,11 @@ C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\ghpBlazorApp.dll
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\refint\ghpBlazorApp.dll
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\ghpBlazorApp.pdb
 C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\ref\ghpBlazorApp.dll
+C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.3193z9t7oo.wasm
+C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.i2dlwboqt4.pdb
+C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.3193z9t7oo.wasm.gz
+C:\Development\bzProjects\ghpBlazorApp\bin\Release\net9.0\wwwroot\_framework\ghpBlazorApp.i2dlwboqt4.pdb.gz
+C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\es5i27noet-769jwwwisl.gz
+C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\hp5wshpfrp-3193z9t7oo.gz
+C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\1jsplq8sgk-i2dlwboqt4.gz
+C:\Development\bzProjects\ghpBlazorApp\obj\Release\net9.0\compressed\5gp2oxhu10-tp584rlfi3.gz
